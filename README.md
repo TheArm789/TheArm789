@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TheArm789
-- 🌱 I’m currently learning to be a AQA Enginer.
+Hi, I’m @TheArm789
+I’m currently learning to be a AQA Enginer.
 
 
 
